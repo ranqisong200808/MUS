@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="MUS"
+  id="myeclipse.1472691338534"
+  context-root="/MUS"
+  j2ee-spec="5.0"
+  archive="MUS.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
